@@ -19,5 +19,5 @@ hello, world
 hello, world
 hello, world
 hello, world
-line 4 hot-fix
+line 4 hot-fix hot-fix-advise
 master insert
